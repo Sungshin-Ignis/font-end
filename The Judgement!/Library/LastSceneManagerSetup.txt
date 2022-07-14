@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Login_page.unity
+- path: Assets/Signup_page.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
